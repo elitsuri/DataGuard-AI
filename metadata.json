@@ -1,0 +1,5 @@
+{
+  "name": "DataGuard AI",
+  "description": "Production-grade data pipeline monitoring with real-time anomaly and drift detection.",
+  "requestFramePermissions": []
+}
